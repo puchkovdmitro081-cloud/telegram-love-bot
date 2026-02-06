@@ -3,4 +3,5 @@ services:
     name: telegram-love-bot
     env: python
     plan: free
+
     startCommand: python bot.py
